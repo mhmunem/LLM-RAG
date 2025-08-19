@@ -1,0 +1,10 @@
+# Python 3.12.1
+
+elasticsearch
+notebook
+numpy
+openai
+pandas
+python-dotenv
+scikit-learn
+tqdm
