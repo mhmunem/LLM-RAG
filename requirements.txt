@@ -1,6 +1,6 @@
 # Python 3.12.1
 
-elasticsearch
+elasticsearch==9.1.0
 notebook
 numpy
 openai
