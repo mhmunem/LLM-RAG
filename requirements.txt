@@ -8,3 +8,4 @@ pandas
 python-dotenv
 scikit-learn
 tqdm
+qdrant-client[fastembed]>=1.14.2
